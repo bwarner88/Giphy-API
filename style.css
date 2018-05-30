@@ -1,0 +1,40 @@
+#heading {
+    height: 30px;
+    text-align: center;
+    font-family: 'Bangers', cursive;
+    font-size: 24pt;
+}
+
+#buttonDiv {
+    margin: 0 auto;
+}
+#topicBtn {
+    background-color: blueviolet;
+    padding: 10px;
+    background-image: url("./images/btnBackground.jpg");
+    color: white;
+    font-family: 'Bangers', cursive;
+
+}
+
+p {
+color: white;
+font-size: 15pt;    
+font-family: 'Bangers', cursive;
+}
+
+#submitBtn {
+    background-image: url("./images/btnBackground.jpg");
+    color: white;
+    font-family: 'Bangers', cursive;
+}
+
+#newTopic {
+    background-color: black;
+    color: white;
+    font-family: 'Bangers', cursive;
+}
+
+body {
+    background-image: url("./images/backgroundImg.gif");
+}

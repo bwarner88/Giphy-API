@@ -1,6 +1,6 @@
 $(document).ready(function () {
 
-    var topics = ['hockey', 'hats', 'jiu-jitsu', 'movies', 'memes'];
+    var topics = ['hockey', 'hats', 'jiu-jitsu', 'movies', 'memes', 'alex jones', 'star wars'];
 
     //create buttons from array
     var createButtons = function () {
